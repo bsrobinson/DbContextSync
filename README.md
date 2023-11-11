@@ -8,7 +8,9 @@ DBContextSync clearly shows you the differences between your classes and databas
 
 See the example video below (*note, some command line arguments are hard coded for privacy*)
 
-<img title="" src="file:///Users/ben/git/DbContextSync/README-Assets/demo.gif" alt="demo.gif" width="555" data-align="center">
+<p align="center">
+  <img title="" src="./README-Assets/demo.gif" alt="demo.gif" width="555">
+</p>
 
 ## Run on the command line
 
